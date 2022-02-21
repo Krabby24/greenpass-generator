@@ -17,7 +17,7 @@ from cose.keys.curves import Ed25519
 from cose.keys import OKPKey
 
 DATA = {
-    1: "DE",
+    1: "IT",
     -260: {
         1: {
             "v": [
@@ -27,7 +27,7 @@ DATA = {
                     "ma": "ORG-100030215",
                     "vp": "1119349007",
                     "dt": "2021-06-11",
-                    "co": "DE",
+                    "co": "IT",
                     "ci": "420_69",
                     "mp": "EU/1/20/1528",
                     "is": "Reichsministerium für Volksaufklärung und Propaganda",
@@ -35,13 +35,13 @@ DATA = {
                 }
             ],
             "nam": {
-                "fnt": "Goebbels",
-                "fn": "Goebbels",
-                "gnt": "Paul Joseph",
-                "gn": "Paul Joseph"
+                "fnt": "Stocco",
+                "fn": "Stocco",
+                "gnt": "Marco",
+                "gn": "Marco"
             },
             "ver": "1.0.0",
-            "dob": "1897-10-29"
+            "dob": "2003-01-11"
         }
     }
 }
